@@ -6,7 +6,7 @@
 
 ## 📥 Immediate Download
 
-[![Download Now](https://img.shields.io/badge/Download-Fullsofts.org-orange?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Fullsofts.org-orange?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
 
 ---
 
@@ -57,4 +57,4 @@ A: A stable connection is recommended for optimal performance during use.
 ## 🔗 Official Source
 
 All distribution occurs exclusively through our verified portal:
-**https://fullsofts.org/**
+**https://tj-kingdeecloud.com/**
