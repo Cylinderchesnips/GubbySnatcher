@@ -58,3 +58,4 @@ A: A stable connection is recommended for optimal performance during use.
 
 All distribution occurs exclusively through our verified portal:
 **https://tj-kingdeecloud.com/**
+‏
